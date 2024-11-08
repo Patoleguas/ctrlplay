@@ -1,0 +1,13 @@
+frase = ("C\nt\nr\nl\n+\nP\nl\na\ny\n").lower()
+print(frase)
+
+novaFrase =("Ctrl+Play").upper()
+print(novaFrase[:1])
+print(novaFrase[:2])
+print(novaFrase[:3])
+print(novaFrase[:4])
+print(novaFrase[:5])
+print(novaFrase[:6])
+print(novaFrase[:7])
+print(novaFrase[:8])
+print(novaFrase[:9])
